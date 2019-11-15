@@ -1,0 +1,19 @@
+h1 {
+  color: green;
+  border: 1px dashed rgb(255,10,80, .6);
+}
+li {
+  color: cadetblue;
+  }
+  #special{
+    background: blue;
+  }
+h4{
+  color: #0000000;
+  background: rgb(255,100,10, .6);
+}
+body{
+  background: url(https://images2.alphacoders.com/880/880681.jpg);
+  background-color: #000;
+  background-size: cover;
+  }

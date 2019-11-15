@@ -1,0 +1,16 @@
+h1 {
+  color: green;
+  border: 1px dashed rgb(255,10,80, .6);
+}
+li {
+  color: cadetblue;
+}
+h4{
+  color: #0000000;
+  background: rgb(255,100,10, .6);
+}
+body{
+  background: url(https://wallpapercave.com/wp/mToeXqq.jpg);
+  background-color: #000;
+  background-size: cover;
+  }
